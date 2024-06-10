@@ -1,0 +1,32 @@
+div.component {
+  padding: 35px;
+  text-align: center;
+  background-color: purple;
+  color: #fefefe;
+  line-height: 2;
+  width: 400px;
+  height: 200;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #222;
+}
+label {
+  margin: 0 5px;
+}
+input {
+  border: none;
+  outline: none;
+  padding: 10px 0;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+button {
+  width: 100px;
+  outline: none;
+  border: none;
+  color: #fefefe;
+  background-color: #b31312;
+  padding: 5px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
